@@ -1,0 +1,14 @@
+# jetbrains project files
+.idea
+
+# enviroment settings
+/.env
+
+# binary files
+/bin
+
+# vendor
+/vendor
+
+# coverage report
+coverage.txt
